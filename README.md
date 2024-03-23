@@ -4,11 +4,15 @@
 Have you been doing serverless for a while but don’t feel like you’re getting the most out of it? This interactive workshop will allow you to interact with experienced serverless professionals and gain three different perspectives on how to level up your serverless architecture.
 
 * Learn new approaches and design patterns.
-* Hear stories from the trenches about what worked (and what didn’t)
+* Hear stories from the trenches about what worked (and what did not)
 * Gain perspective on cost, performance, scalability, and resilience.
 * Includes examples covering AWS Lambda, Azure Function, and Google Functions  
 
 This four-part workshop is designed for experienced serverless developers and architects who want to deepen their knowledge, learn exciting new aspects of serverless technology, and network with other serverless experts. Some perspectives on the major platforms will be provided, but this workshop is intended for all practitioners, regardless of their current technology stack.
+
+| Bryan Hogan | Michael Dowden | Chad Green |
+| ------------- | -------------- | ---------- |
+| <a href="https://www.linkedin.com/in/bryanjhogan/"><img src="bryan-hogan.jpg" alt="Bryan Hogan" style="width:200px;" /></a> | <a href="https://www.linkedin.com/in/mrdowden/"><img src="michael-dowden.jpg" alt="Michael Dowden" style="width:200px;" /></a> | <a href="https://www.linkedin.com/in/chadwickgreen/"><img src="chad-green.jpg" alt="Chad Green" style="width:200px;" /></a> |
 
 ## Materials and Demos
 
