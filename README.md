@@ -12,9 +12,9 @@ This four-part workshop is designed for experienced serverless developers and ar
 
 ## Materials and Demos
 
-- [Presentation](EventMaterials\AdvancedServerlessWorkshop_Azure_London2023.pdf)
-- [Portfolio Management Demo](Demos\Portfolio%20Management\Portfolio%20Management.sln)
-- [Drone Telemetry Demo](Demos\Drone%20Telemery\Drone%20Telemetry.sln)
+- [Presentation](EventMaterials/AdvancedServerlessWorkshop_Azure_London2023.pdf)
+- [Portfolio Management Demo](Demos/Portfolio%20Management)
+- [Drone Telemetry Demo](Demos/Drone%20Telemetry)
 
 ## Time and Location
 
