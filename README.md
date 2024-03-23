@@ -22,11 +22,11 @@ This four-part workshop is designed for experienced serverless developers and ar
 
 ## Time and Location
 
-[Serverless Architecture Conference - London 2023](https://serverless-architecture.io/serverless-architecture-design/advanced-serverless-workshop/)
-London, UK
-April 27, 2023
-8:45 AM BST
-Edwards 7
+[Serverless Architecture Conference - London 2023](https://serverless-architecture.io/serverless-architecture-design/advanced-serverless-workshop/)  
+London, UK  
+April 27, 2023  
+8:45 AM BST  
+Edwards 7  
 
 ## Other Presentations
 [Advanced Serverless Workshop](https://github.com/TaleLearnCode/AdvancedServerlessWorkshop)
